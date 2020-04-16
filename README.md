@@ -32,3 +32,6 @@ Go check out my model.
 ![alt text](https://github.com/Anas-coder/My-Projects/blob/master/Machine%20Learning%20Projects/Screenshot%20(7).png
 )
 
+
+
+![alt text](https://github.com/Anas-coder/Project-Gender-Prediction/blob/master/Screenshot%20(7).png)
