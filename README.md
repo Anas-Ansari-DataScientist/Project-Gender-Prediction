@@ -25,7 +25,7 @@ To test my model I have deployed my model using flask framework into heruko envi
 
 link to test my model is-
 
-https://genderpridiction-api.herokuapp.com
+https://genderprediction-api.herokuapp.com
 
 Go check out my model.
 
