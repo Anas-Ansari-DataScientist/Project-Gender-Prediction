@@ -1,20 +1,20 @@
-## Predicting Gender
+### Predicting Gender
 
 # Introduction:-
 
-In this notebook, I'm going to do an end to end project of Machine Learning in which we will take height(in feet) and weight(in kgs) as an input and will predict the gender of that particular person. I'm going to go over a basic Machine Learning pipeline from start to finish to show what a typical data science workflow looks like.
+In this notebook, I'm going to do an "end to end project of Machine Learning Project" in which we will take height(in feet) and weight(in kgs) as an input and will predict the gender of that particular person. I'm going to go over a basic Machine Learning pipeline from start to finish to show what a typical data science workflow looks like.
 
 The dataset for this project was collected from Kaggle.com.The dataset contains three columns one weight one of height and labeled as male and female as the third column. The shape of the dataset is (10000,3).
 
 In this project i have used 4 Machine learning algorithm.
 
--KNN
+"-KNN"
 
--Random forest
+"-Random forest"
 
--Decision Tree
+"-Decision Tree"
 
--Logistic Regression
+"-Logistic Regression"
 
 For the purposes of this project, the following preprocessing steps have been made to the dataset:
 
@@ -37,7 +37,7 @@ Go check out my model.
 ![output](https://github.com/Anas-coder/Project-Gender-Prediction/blob/master/Output.png)
 
 
-I would also like to add a little description of my other files:-
+***I would also like to add a little description of my other files:-***
 
 Templates:-This folder contains the index.html file which is basically the homepage of my app.
 
