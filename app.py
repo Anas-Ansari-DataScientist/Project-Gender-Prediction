@@ -23,7 +23,7 @@ def predict():
     else:
         print('Male')
 
-    return render_template('index.html', prediction_text='You are- {},If the prediction is 0 its a Female.....If the Prediction is 1 its a male'.format(prediction))
+    return render_template('index.html', prediction_text='You are a- {}.....Thanks for trying'.format(prediction))
 
 
 if __name__ == "__main__":
