@@ -34,4 +34,4 @@ Go check out my model.
 
 
 
-![output](https://github.com/Anas-coder/Project-Gender-Prediction/blob/master/Screenshot%20(9).png)
+![output](https://github.com/Anas-coder/Project-Gender-Prediction/blob/master/Output.png)
