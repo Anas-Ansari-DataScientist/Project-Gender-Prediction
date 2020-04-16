@@ -1,6 +1,6 @@
-Predicting Gender
+## Predicting Gender
 
-Introduction:-
+# Introduction:-
 
 In this notebook, I'm going to do an end to end project of Machine Learning in which we will take height(in feet) and weight(in kgs) as an input and will predict the gender of that particular person. I'm going to go over a basic Machine Learning pipeline from start to finish to show what a typical data science workflow looks like.
 
@@ -35,3 +35,20 @@ Go check out my model.
 
 
 ![output](https://github.com/Anas-coder/Project-Gender-Prediction/blob/master/Output.png)
+
+
+I would also like to add a little description of my other files:-
+
+Templates:-This folder contains the index.html file which is basically the homepage of my app.
+
+Procfile:-This file defines that which first I want to execute first in my case its app.py
+
+app.py:-This files create a web app using the Flask framework.
+
+model.pkl:-model needs to be dumped in the form of an extension and is dumped as model.pkl file
+
+requirements.txt:-This file defines the library that has to get install in my environment when I am deploying into Heroku
+
+
+Its just an approach.
+I am still learning!
