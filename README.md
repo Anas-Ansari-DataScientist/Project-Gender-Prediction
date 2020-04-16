@@ -39,9 +39,9 @@ https://genderprediction-api.herokuapp.com
 
 ***I would also like to add a little description of my other files:-***
 
-  **Templates**:-This folder contains the index.html file which is basically the homepage of my app.
+**Templates**:-This folder contains the index.html file which is basically the homepage of my app.
 
-    **Procfile**:-This file defines that which first I want to execute first in my case its app.py
+**Procfile**:-This file defines that which first I want to execute first in my case its app.py
 
 **app.py**:-This files create a web app using the Flask framework.
 
@@ -50,5 +50,5 @@ https://genderprediction-api.herokuapp.com
 **requirements.txt**:-This file defines the library that has to get install in my environment when I am deploying into Heroku
 
 
-### Its just an approach.
+### It's just an approach.
 ## I am still learning!
