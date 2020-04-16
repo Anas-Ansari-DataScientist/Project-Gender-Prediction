@@ -1,6 +1,6 @@
-### Predicting Gender
+# Predicting Gender
 
-# Introduction:-
+## Introduction:-
 
 In this notebook, I'm going to do an **end to end project of Machine Learning Project** in which we will take height(in feet) and weight(in kgs) as an input and will predict the gender of that particular person. I'm going to go over a basic Machine Learning pipeline from start to finish to show what a typical data science workflow looks like.
 
